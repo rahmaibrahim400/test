@@ -1,0 +1,75 @@
+.root{
+    --greeen: #16db93;
+    --green-dark: #13bc7e;
+    --light-gray: #f1f4f6;
+}
+.bg-color{
+    background-color: #16db93;
+    height: 100vh;
+}
+.btnn{
+    border: 2px solid white;
+    border-radius: 50px;
+    background-color:  #16db93;
+    color: #fff;
+    width: 160px;
+    padding: 0.6rem 0;
+    font-weight: bold;
+}
+.bgg-color{
+    height: 80vh;
+    background-color:  #16db93;
+
+    
+}
+.sec-6{
+    height: 60vh;
+    background-color:  #16db93;
+    color: #fff;
+
+
+
+}
+.sec-7 .carts{
+    background-color:#16db93 ;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    width: 350px;
+    margin-left: 70px;
+}
+    
+.sec-7 .carts h5{
+    background-color: #13bc7e ;
+    padding: 25px 0;
+
+}
+.sec-7 .carts h2{
+    font-weight: bold;
+    padding: 20px 0;
+}
+.sec-7 .carts h6{
+     padding: 11px 0;
+
+}
+.sec-7 .carts button{
+    margin: 40px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 50px;
+    width: 180px;
+    height: 50px;
+}
+.sec-7 .carts hr{
+    color: #fff;
+    font-weight: bold;
+}
+.sec-8{
+    background-color: #16db93;
+    height: 10vh;
+}
+.copyy i{
+    padding-left: 20px;
+    color: #fff;
+}
+
